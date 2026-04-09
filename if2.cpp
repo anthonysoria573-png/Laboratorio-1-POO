@@ -15,8 +15,8 @@ scanf("%f",&p2);
 printf("ingrese Parcial 3: ");
 scanf("%f",&p3);
 
-pf = promedio(p1,p2,p3);
-printf("promedio total =%f\n",pf);
+pff = promedio(p1,p2,p3);
+printf("promedio total =%f\n",pff);
 
 if(pf<11){
     printf("Resultado: Reprueba");
