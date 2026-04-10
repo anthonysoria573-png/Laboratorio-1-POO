@@ -29,6 +29,7 @@ else if (pf>14){
 }
 return 0;
 }
+//Promedio
     float promedio (float n1, float n2, float n3){
         float resultado;
         reultado = (n1+n2+n3)/3;
